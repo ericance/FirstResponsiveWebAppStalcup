@@ -3,12 +3,6 @@ using Xunit;
 
 using FirstResponsiveWebAppStalcup;
 using FirstResponsiveWebAppStalcup.Models;
-using System.Linq;
-using System.Text;
-using System.Collections.Generic;
-using System.Web;
-using Microsoft.AspNetCore.Mvc;
-
 using FirstResponsiveWebAppStalcup.Controllers;
 
 namespace AgeUnitTest
